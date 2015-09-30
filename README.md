@@ -14,5 +14,6 @@ Putting stuff into databases and taking it back out again is a great way to make
 * [Algorithms as art](https://labs.ideo.com/2014/06/04/painting-with-code/)
 * [Johnny-Five, a JavaScript robotics library](http://johnny-five.io)
 * [Reactive game development for the discerning hipster](https://www.youtube.com/watch?v=FLSNm7AIBoM)
+* [JavaScript AI Battle](http://javier.xyz/clashjs/)
 
 Pull requests graciously accepted.
