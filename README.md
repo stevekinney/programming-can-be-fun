@@ -13,5 +13,6 @@ Putting stuff into databases and taking it back out again is a great way to make
 * [Programming Graphics I: Introduction to Generative Art](https://www.skillshare.com/classes/design/Programming-Graphics-I-Introduction-to-Generative-Art/782118657)
 * [Algorithms as art](https://labs.ideo.com/2014/06/04/painting-with-code/)
 * [Johnny-Five, a JavaScript robotics library](http://johnny-five.io)
+* [Reactive game development for the discerning hipster](https://www.youtube.com/watch?v=FLSNm7AIBoM)
 
 Pull requests graciously accepted.
