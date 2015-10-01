@@ -15,5 +15,6 @@ Putting stuff into databases and taking it back out again is a great way to make
 * [Johnny-Five, a JavaScript robotics library](http://johnny-five.io)
 * [Reactive game development for the discerning hipster](https://www.youtube.com/watch?v=FLSNm7AIBoM)
 * [JavaScript AI Battle](http://javier.xyz/clashjs/)
+* [The Nature of Code](http://natureofcode.com/) Recreating movement in the natural world using Processing
 
 Pull requests graciously accepted.
