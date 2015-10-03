@@ -1,6 +1,6 @@
 # Programming can be fun
 
-Putting stuff into databases and taking it back out again is a great way to make some money, but it get a little old after a while. Below is a completely unorganized, language-agnostic list of libraries, tutorials, and projects (for inspiration) curated in a thinly veiled attempt to convince you to do something cool with code that you're super proud of.
+Putting stuff into databases and taking it back out again is a great way to make some money, but it gets a little old after a while. Below is a completely unorganized, language-agnostic list of libraries, tutorials, and projects (for inspiration) curated in a thinly veiled attempt to convince you to do something cool with code that you're super proud of.
 
 * [var t;](http://vart.institute)
 * [Learn JS Data](http://learnjsdata.com)
@@ -15,6 +15,6 @@ Putting stuff into databases and taking it back out again is a great way to make
 * [Johnny-Five, a JavaScript robotics library](http://johnny-five.io)
 * [Reactive game development for the discerning hipster](https://www.youtube.com/watch?v=FLSNm7AIBoM)
 * [JavaScript AI Battle](http://javier.xyz/clashjs/)
-* [The Nature of Code](http://natureofcode.com/) Recreating movement in the natural world using Processing
+* [The Nature of Code](http://natureofcode.com/) (recreating movement in the natural world using Processing)
 
 Pull requests graciously accepted.
